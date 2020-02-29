@@ -468,3 +468,10 @@ Consider the following example:
 
         console.log('I am here number 2');
         ```
+
+---
+Useful links
+- [devdocs.io](https://www.devdocs.io)
+- [Mozilla JS tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [You don't know JS book](https://github.com/getify/You-Dont-Know-JS)
+- [javascript.info](https://javascript.info)
